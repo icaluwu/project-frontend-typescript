@@ -1,0 +1,5 @@
+"use strict";
+(() => {
+  // src/index.ts
+  document.body.innerHTML = "<h1>Hello, esbuild with TypeScript!</h1>";
+})();
