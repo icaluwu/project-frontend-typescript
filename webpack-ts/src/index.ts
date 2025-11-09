@@ -1,0 +1,1 @@
+document.getElementById('app')!.textContent = '<h1>Hello, TypeScript with Webpack!</h1>';
